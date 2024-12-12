@@ -21,8 +21,8 @@ This project demonstrates real-time object detection for fire and smoke using th
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/fire-smoke-detection.git
-   cd fire-smoke-detection
+   git clone https://github.com/rudrakshxo/Fire-Detection-Using-YOLOv8
+   cd Fire-Detection-Using-YOLOv8
    ```
 
 2. Install dependencies:
@@ -40,7 +40,7 @@ This project demonstrates real-time object detection for fire and smoke using th
 1. Update the `video_path` variable in the code to point to your video file.
 2. Run the script:
    ```bash
-   python detect.py
+   python main.py
    ```
 
 ### Running with Live Camera Feed
@@ -50,7 +50,7 @@ This project demonstrates real-time object detection for fire and smoke using th
    ```
 2. Execute the script:
    ```bash
-   python detect.py
+   python main.py
    ```
 
 ### Exiting
